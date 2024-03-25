@@ -1,0 +1,6 @@
+*.hdf5
+**/chief/
+**/.ipynb_checkpoints/
+*.npz
+*.data-00000-of-00001
+events.out.tfevents.*
